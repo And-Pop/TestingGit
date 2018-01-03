@@ -45,6 +45,9 @@ namespace GetFiles
             label3.Text = string.Empty;
 
             CfgInitiate();
+
+            // Test ce mai faci?
+            label3.Text = string.Empty;            
         }
 	}
 }
